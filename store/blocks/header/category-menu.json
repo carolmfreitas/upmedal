@@ -1,0 +1,131 @@
+{
+  "vtex.menu@2.x:menu#category-menu": {
+    "props": {
+      "experimentalOptimizeRendering": true
+    },
+    "children": [
+      "menu-item#promocao",
+      "menu-item#corinthians",
+      "menu-item#palmeiras",
+      "menu-item#signos",
+      "menu-item#divertidos",
+      "menu-item#7maravilhas",
+      "menu-item#guerreiros"
+    ]
+  },
+  "menu-item#promocao": {
+    "props": {
+      "id": "menu-item-promocao",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Promocao",
+        "text": "PROMOÇÃO"
+      }
+    },
+    "blocks": [
+      
+    ]
+  },
+
+  "menu-item#corinthians": {
+    "props": {
+      "id": "menu-item-category-corinthians",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Corinthians",
+        "text": "CORINTHIANS"
+      }
+    }
+  },
+
+  "menu-item#palmeiras": {
+    "props": {
+      "id": "menu-item-category-palmeiras",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Palmeiras",
+        "text": "PALMEIRAS"
+      }
+    }
+  },
+
+  "menu-item#signos": {
+    "props": {
+      "id": "menu-item-category-signos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Signos",
+        "text": "SIGNOS"
+      }
+    }
+  },
+
+  "menu-item#divertidos": {
+    "props": {
+      "id": "menu-item-category-divertidos",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Divertidos",
+        "text": "DIVERTIDOS"
+      }
+    }
+  },
+
+  "menu-item#7maravilhas": {
+    "props": {
+      "id": "menu-item-category-7maravilhas",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "7maravilhas",
+        "text": "7 MARAVILHAS"
+      }
+    }
+  },
+
+  "menu-item#guerreiros": {
+    "props": {
+      "id": "menu-item-category-guerreiros",
+      "type": "custom",
+      "iconId": null,
+      "highlight": false,
+      "itemProps": {
+        "type": "internal",
+        "href": "/",
+        "noFollow": false,
+        "tagTitle": "Guerreiros",
+        "text": "GUERREIROS"
+      }
+    }
+  }
+
+}
